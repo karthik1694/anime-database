@@ -1,6 +1,6 @@
-# AnimeHub
+# Anime Database
 
-**AnimeHub** is a modern web application built with React.js, designed to provide an extensive and user-friendly anime database. The app utilizes a robust API to deliver up-to-date information on a wide range of anime content.
+**Anime Database** is a modern web application built with React.js, designed to provide an extensive and user-friendly anime database. The app utilizes a robust API to deliver up-to-date information on a wide range of anime content.
 
 ## Features
 
